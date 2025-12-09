@@ -14,6 +14,3 @@ git clone https://github.com/W1160342934-png/YDD-.git
 cd cpm
 
 git pull
-
-python3 cpm1.py for cpm1
-
