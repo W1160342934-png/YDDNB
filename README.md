@@ -11,6 +11,6 @@ pip install requests
 
 git clone https://github.com/W1160342934-png/YDD-.git
 
-cd cpm
+cd ydd-/cpm
 
-git pull
+git clone
